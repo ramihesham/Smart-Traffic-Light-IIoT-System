@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project presents a **Smart Traffic Light System** based on **Industrial Internet of Things (IIoT)** using ESP32. It supports multiple operation modes and integrates real-time monitoring with environmental sensing. No pre-built system or template was used I devoloped all the conditions based on my engineering sense to enhance the current standard traffic lights logic which are ineffiecient in complex situations because it relays on timing only and never looks to emergency or you may waste time waiting for the traffic light to turn green while the other routes are totally free of cars.
+This project presents **3 ways Smart Traffic Light System** based on **Industrial Internet of Things (IIoT)** using ESP32. It supports multiple operation modes and integrates real-time monitoring with environmental sensing. No pre-built system or template was used I devoloped all the conditions based on my engineering sense to enhance the current standard traffic lights logic which are ineffiecient in complex situations because it relays on timing only and never looks to emergency or you may waste time waiting for the traffic light to turn green while the other routes are totally free of cars.
 
 ---
 
@@ -114,6 +114,8 @@ Smart-Traffic-Light-IIoT-System/
     │
     └── climate_monitoring/
         └── climate_system.ino
+
+
 
 
 ---
