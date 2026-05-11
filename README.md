@@ -84,7 +84,30 @@ Each rule corresponds to a specific configuration of the traffic lights:
 | special_star_4 | 1  | 0  | 0  | 1  | 0  | 0  | 0  | 0  | 1  |
 
 ---
+## BLYNK Dashboards
 
+# SMART TRAFFIC LIGHTS
+
+<img width="940" height="526" alt="image" src="https://github.com/user-attachments/assets/6fbf5970-7e7b-491c-9f6d-15a9613940dc" />
+
+<img width="940" height="560" alt="image" src="https://github.com/user-attachments/assets/9038795e-9228-4c52-b02a-fc3c2795e3d3" />
+
+
+
+# Climate Condition
+
+<img width="940" height="400" alt="image" src="https://github.com/user-attachments/assets/570cea56-009b-417e-949a-9a0b7c3d1cbd" />
+
+<img width="940" height="517" alt="image" src="https://github.com/user-attachments/assets/69627d7d-d189-497e-9f37-bb5de626c805" />
+
+
+
+
+* Real-time decision making using sensor fusion
+* Scalable IIoT architecture
+* Multi-mode operation (manual, timed, intelligent)
+
+---
 ## 💡 Engineering Highlights
 
 * Real-time decision making using sensor fusion
