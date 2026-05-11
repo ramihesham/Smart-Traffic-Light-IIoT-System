@@ -92,29 +92,29 @@ Each rule corresponds to a specific configuration of the traffic lights:
 * Multi-mode operation (manual, timed, intelligent)
 
 ---
-
 ## 📂 Project Structure
 
+```
 Smart-Traffic-Light-IIoT-System/
 │
 ├── README.md
 │
 ├── code/
-    ├── mode1_standard_cycle/
-    │   └── traffic_light_standard.ino
-    │
-    ├── mode2_espnow_control/
-    │   ├── sender/
-    │   │   └── sender.ino
-    │   └── receiver/
-    │       └── receiver.ino
-    │
-    ├── mode3_smart_ultrasonic_control/
-    │   └── smart_control.ino
-    │
-    └── climate_monitoring/
-        └── climate_system.ino
-
+│   ├── mode1_standard_cycle/
+│   │   └── traffic_light_standard.ino
+│   │
+│   ├── mode2_espnow_control/
+│   │   ├── sender/
+│   │   │   └── sender.ino
+│   │   └── receiver/
+│   │       └── receiver.ino
+│   │
+│   ├── mode3_smart_ultrasonic_control/
+│   │   └── smart_control.ino
+│   │
+│   └── climate_monitoring/
+│       └── climate_system.ino
+```
 
 
 ## 🚀 Getting Started
