@@ -117,9 +117,6 @@ Smart-Traffic-Light-IIoT-System/
 
 
 
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone Repository
